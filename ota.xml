@@ -1,8 +1,8 @@
 <OTACenter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <Stable>
-    <nicki>
+    <C1904>
       <Filename>TeslaOS-2.2-20151015-WEEKLY-nicki</Filename>
       <DownloadUrl>https://www.androidfilehost.com/?fid=24052804347837952</DownloadUrl>
-    </nicki>
+    </C1904>
   </Stable>
 </OTACenter>
