@@ -1,8 +1,8 @@
 <OTACenter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <Stable>
     <C1904>
-      <Filename>TeslaOS-3.0-20151110-OFFICIAL-nicki</Filename>
-      <DownloadUrl>http://sh.st/bV3SF</DownloadUrl>
+      <Filename>TeslaOS-3.0-20151122-OFFICIAL-nicki</Filename>
+      <DownloadUrl>http://sh.st/nq5xw</DownloadUrl>
     </C1904>
   </Stable>
 </OTACenter>
