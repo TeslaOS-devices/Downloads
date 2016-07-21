@@ -1,8 +1,8 @@
 <OTACenter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <Stable>
     <nicki>
-      <Filename>TeslaOS-3.7-20160413-OFFICIAL-nicki</Filename>
-      <DownloadUrl>http://www.mediafire.com/download/p3mups0t163irom/TeslaOS-3.7-20160413-OFFICIAL-nicki.zip</DownloadUrl>
+      <Filename>TeslaOS-4.0-20160720-OFFICIAL-nicki</Filename>
+      <DownloadUrl>https://www.mediafire.com/?1pgvfdsoz6h9gpk</DownloadUrl>
     </nicki>
   </Stable>
 </OTACenter>
