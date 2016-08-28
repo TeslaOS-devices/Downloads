@@ -1,8 +1,12 @@
 <OTACenter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <Stable>
     <nicki>
-      <Filename>TeslaOS-4.0-20160720-OFFICIAL-nicki</Filename>
-      <DownloadUrl>https://www.mediafire.com/?1pgvfdsoz6h9gpk</DownloadUrl>
+      <Filename>TeslaOS-4.0-20160822-OFFICIAL-nicki</Filename>
+      <DownloadUrl>http://www.mediafire.com/download/t160d7qbondcxc8/TeslaOS-4.0-20160822-OFFICIAL-nicki.zip</DownloadUrl>
     </nicki>
+    <hammerhead>
+      <Filename>TeslaOS-4.0-20160828-OFFICIAL-hammerhead</Filename>
+      <DownloadUrl>http://www.mediafire.com/download/45t7j9143yi96g3/TeslaOS-4.0-20160828-OFFICIAL-hammerhead.zip</DownloadUrl>
+    </hammerhead>
   </Stable>
 </OTACenter>
